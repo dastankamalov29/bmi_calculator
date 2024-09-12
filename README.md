@@ -1,7 +1,5 @@
 # bmi_calculator
 
-A new Flutter project.
-
 BMI Calculator
 
 Dart(Flutter), Provider.
